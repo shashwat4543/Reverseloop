@@ -1,0 +1,6 @@
+{
+  "name": "ReverseLoop",
+  "description": "Reverse logistics and reverse journey tracking matching spare delivery route capacity with returns and reusable items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

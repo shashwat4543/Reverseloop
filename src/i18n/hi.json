@@ -1,0 +1,19 @@
+{
+  "common.continue": "जारी रखें",
+  "common.back": "वापस जाएं",
+  "common.retry": "पुनः प्रयास करें",
+  "common.error.generic": "कुछ गड़बड़ हो गई। कृपया पुनः प्रयास करें।",
+  "common.offline": "आप ऑफ़लाइन हैं।",
+  "launch.title": "इस डिलीवरी के साथ कुछ वापस भेजें",
+  "launch.category.electronics": "छोटे इलेक्ट्रॉनिक्स",
+  "launch.category.packaging": "पुनर्प्रयोज्य पैकेजिंग",
+  "launch.category.return": "उत्पाद वापसी",
+  "launch.check": "पात्रता जांचें",
+  "launch.find": "पिकअप खोजें",
+  "elig.ok": "यह वस्तु एकत्र की जा सकती है।",
+  "elig.rejected": "यह वस्तु मानक प्रक्रिया से नहीं जा सकती।",
+  "match.finding": "पिकअप खोज रहे हैं",
+  "match.booked": "आपका पिकअप बुक हो गया है",
+  "confirm.title": "आपका पिकअप बुक हो गया है",
+  "passport.promise": "एक बार स्कैन करें। घर से नए जीवन तक इसकी यात्रा देखें।"
+}

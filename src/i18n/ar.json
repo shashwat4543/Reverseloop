@@ -1,0 +1,22 @@
+{
+  "common.continue": "متابعة",
+  "common.back": "رجوع",
+  "common.retry": "إعادة المحاولة",
+  "common.error.generic": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+  "common.offline": "أنت غير متصل بالإنترنت.",
+  "launch.title": "أعد إرسال غرض مع هذا التوصيل",
+  "launch.category.electronics": "إلكترونيات صغيرة",
+  "launch.category.packaging": "تغليف قابل لإعادة الاستخدام",
+  "launch.category.return": "إرجاع منتج",
+  "launch.check": "التحقق من الأهلية",
+  "launch.find": "البحث عن موعد استلام",
+  "elig.ok": "يمكن استلام هذا الغرض.",
+  "elig.rejected": "لا يمكن معالجة هذا الغرض عبر المسار القياسي.",
+  "match.finding": "جارٍ البحث عن موعد استلام",
+  "match.booked": "تم حجز موعد الاستلام",
+  "confirm.title": "تم حجز موعد الاستلام بنجاح",
+  "passport.promise": "امسح الرمز مرة واحدة وتابع رحلته من منزلك إلى حياته الجديدة.",
+  "passport.verified": "مؤكد: تم تسجيل أدلة الشريك",
+  "passport.unverified": "تم الإبلاغ بواسطة الشريك، بانتظار التأكيد",
+  "passport.privacy": "لا تظهر أي بيانات شخصية على هذه الصفحة."
+}
